@@ -1,9 +1,9 @@
 
-CSV Analyzer with Streamlit UI
+**CSV Analyzer with Streamlit UI**
 
 A lightweight web-based tool built with Python and Streamlit that allows you to upload any CSV file, automatically detect date/time columns, clean anomalies, and preview cleaned data.
 
-🚀 Features
+**🚀 Features**
 
 Upload any CSV file via a browser interface.
 
@@ -19,15 +19,15 @@ Data preview (first few rows).
 
 Download cleaned data as CSV.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python 3.8+
 
 Streamlit – Web UI
 
 Pandas – Data processing
-
-📦 Installation
+****
+📦 Installation****
 
 Clone the repository
 
@@ -57,7 +57,7 @@ Open your browser and go to:
 
 http://localhost:8501
 
-🖥️ How It Works
+**🖥️ How It Works**
 
 Upload a CSV file using the UI.
 
@@ -76,5 +76,6 @@ Displays cleaned data in an interactive table.
 Option to download the cleaned CSV.
 
 
-CSV Analyzer with Streamlit UI
+**CSV Analyzer with Streamlit UI**
+
 <img width="1919" height="735" alt="image" src="https://github.com/user-attachments/assets/61437bc2-e557-444f-9a22-a0f07cd3903d" />
